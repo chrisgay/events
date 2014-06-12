@@ -13,6 +13,9 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= require modernizr.custom.79639
+//= require jquery.ba-cond.min.js
+//= require jquery.slitslider.js
 //= require_tree .
 
 
